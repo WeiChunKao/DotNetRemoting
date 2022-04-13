@@ -1,0 +1,10 @@
+D:\DotNetRemoting\DotNetRemoting\bin\Debug\netstandard2.0\RemoteClass.deps.json
+D:\DotNetRemoting\DotNetRemoting\bin\Debug\netstandard2.0\RemoteClass.dll
+D:\DotNetRemoting\DotNetRemoting\bin\Debug\netstandard2.0\RemoteClass.pdb
+D:\DotNetRemoting\DotNetRemoting\obj\Debug\netstandard2.0\RemoteClass.csproj.AssemblyReference.cache
+D:\DotNetRemoting\DotNetRemoting\obj\Debug\netstandard2.0\RemoteClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetRemoting\DotNetRemoting\obj\Debug\netstandard2.0\RemoteClass.AssemblyInfoInputs.cache
+D:\DotNetRemoting\DotNetRemoting\obj\Debug\netstandard2.0\RemoteClass.AssemblyInfo.cs
+D:\DotNetRemoting\DotNetRemoting\obj\Debug\netstandard2.0\RemoteClass.csproj.CoreCompileInputs.cache
+D:\DotNetRemoting\DotNetRemoting\obj\Debug\netstandard2.0\RemoteClass.dll
+D:\DotNetRemoting\DotNetRemoting\obj\Debug\netstandard2.0\RemoteClass.pdb
