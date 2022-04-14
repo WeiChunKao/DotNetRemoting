@@ -8,11 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.Remoting.Proxies;
+using RemoteClass;
 namespace RemoteClient
 {
     public partial class Form1 : Form
     {
-        private dynamic _obj = null;
+        private IRemoteClass _obj = null;
         public Form1()
         {
             InitializeComponent();
